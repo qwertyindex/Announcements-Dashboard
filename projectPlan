@@ -1,3 +1,14 @@
-events@apc
+Group 4 | Asuncion · Almarez · Bueza · Dollopac | SOFTDEV | CNE71
 
-I. Project Description
+events@apc
+Project Proposal
+
+I.Project Description
+“events@apc” is a website that would serve as an announcements dashboard for APC events. It would list upcoming events and activities of various student organizations in Asia Pacific College.
+
+II.Project Details
+The website would use PHP and MySQL.
+Only the website administrators, student organization advisers and the PRO’s of student organizations would have user accounts, and thus would be the only ones that could post announcements in the website.
+The site administrators would be the ones to create user accounts for org advisers, and approve account registrations of org PRO’s.
+Org PRO’s can create announcements, but it would only be posted on the “events@apc” dashboard upon approval of the org adviser concerned.
+The site admin can delete inappropriate announcements, and remove users.
